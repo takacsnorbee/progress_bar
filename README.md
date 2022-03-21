@@ -1,3 +1,3 @@
 # progress_bar
 
-Live demo: 
+Live demo: https://takacsnorbee.github.io/progress_bar/
